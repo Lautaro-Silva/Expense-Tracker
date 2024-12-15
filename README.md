@@ -10,6 +10,7 @@ This is a personal coding project I worked on because I enjoy building small too
 - Search Stock: Filter and view stock details quickly.
 - Undo Functionality: Roll back recent actions (still under development).
 - View Available Items: A detailed list of currently available stock items with a basic text-based UI.
+- Logging function: To view past changes of stock
 
 # Planned Features
 - Add low-stock alerts.
