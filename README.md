@@ -30,6 +30,8 @@ The main features are organized into classes, such as:
 - ````StockPriceUpdater````: Allows updating prices for existing items.
 - ````StockViewer````: Lets you browse and search for available stock.
 
+There are also many safety checks baked inside the code so that the functions are polished and not prone to errors.
+
 # Why I made this
 I’ve always enjoyed coding small projects to make repetitive tasks easier. A couple of friends needed a way to manage and track their stock, so I thought, "Why not make something for them?" It was a fun challenge to design a functional, interactive app with Python.
 I learned a lot while working on this, and there's still more I want to add as I refine it.
